@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+FROM Wasim/webapp
 
 ADD website /var/www/html
 
